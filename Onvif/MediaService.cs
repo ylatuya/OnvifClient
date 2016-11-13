@@ -74,7 +74,7 @@ namespace Onvif.Media
 			};
 			mediaURI = new MediaUri
 			{
-				Uri = "rtsp://localhost:8691/video"
+				Uri = "rtsp://127.0.0.1:8554/test"
 			};
 		}
 
