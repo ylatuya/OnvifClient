@@ -32,6 +32,8 @@
     <Reference Include="System" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.Services" />
+    <Reference Include="System.ServiceModel.Discovery" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -40,6 +42,10 @@
     <ProjectReference Include="..\Onvif\Onvif.csproj">
       <Project>{8A8D82DE-0D1A-4CFF-A87E-F4BDC42E2B7E}</Project>
       <Name>Onvif</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnvifServices\OnvifServices.csproj">
+      <Project>{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}</Project>
+      <Name>OnvifServices</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

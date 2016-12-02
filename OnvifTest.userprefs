@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{D4663C16-20EA-444E-8061-53F625D200E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnvifService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnvifService/Program.cs">
+    <Files>
+      <File FileName="OnvifService/Program.cs" Line="160" Column="13" />
+      <File FileName="OnvifClient/MainWindow.cs" Line="156" Column="1" />
+      <File FileName="OnvifClient/Program.cs" Line="1" Column="1" />
+      <File FileName="Onvif/Media.cs" Line="1" Column="1" />
+      <File FileName="Onvif/MediaClient.cs" Line="1" Column="1" />
+      <File FileName="Onvif/MediaService.cs" Line="1" Column="1" />
+      <File FileName="Onvif/PTZ.cs" Line="1" Column="1" />
+      <File FileName="Onvif/PTZClient.cs" Line="1" Column="1" />
+      <File FileName="Onvif/PTZService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnvifTest" expanded="True">
+            <Node name="OnvifService" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>obj.List</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ActiveRuntime="Mono 4.6.0 (Stable)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="66" column="48" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="59" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="83" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="88" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="82" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="199" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="167" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="157" column="52" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="151" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="150" column="70" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="152" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="210" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="133" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="146" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="139" column="1" />
+      <Breakpoint file="/Users/albert/projects/Onvif/OnvifClient/OnvifService/Program.cs" line="141" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

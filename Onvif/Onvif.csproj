@@ -32,6 +32,7 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml" />
+    <Reference Include="System.ServiceModel.Discovery" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PTZ.cs" />

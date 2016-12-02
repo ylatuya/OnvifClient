@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnvifService", "OnvifServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnvifClient", "OnvifClient\OnvifClient.csproj", "{912B60BF-3798-4014-9D4C-B5D19BC4F7A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnvifServices", "OnvifServices\OnvifServices.csproj", "{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{912B60BF-3798-4014-9D4C-B5D19BC4F7A7}.Debug|x86.Build.0 = Debug|x86
 		{912B60BF-3798-4014-9D4C-B5D19BC4F7A7}.Release|x86.ActiveCfg = Release|x86
 		{912B60BF-3798-4014-9D4C-B5D19BC4F7A7}.Release|x86.Build.0 = Release|x86
+		{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD2E768E-37C9-4F86-8A83-8F1D3D64B280}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
